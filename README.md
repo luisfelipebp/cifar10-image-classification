@@ -4,7 +4,7 @@ Este projeto implementa uma **Rede Neural Convolucional (CNN)** para classificar
 
 ---
 
-## Dataset: CIFAR-10 🖼️
+## Dataset: CIFAR-10 
 
 O [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html) é um dataset clássico utilizado para algoritmos de classificação de imagens. Ele é composto por:
 
@@ -15,7 +15,7 @@ As 10 classes são: avião, automóvel, pássaro, gato, cervo, cachorro, sapo, c
 
 ---
 
-## Tecnologias Utilizadas 🛠️
+## Tecnologias Utilizadas 
 
 * **Python 3.x**
 * **TensorFlow** e **Keras** para a construção e treinamento do modelo.
@@ -60,7 +60,7 @@ A Rede Neural Convolucional foi construída com a seguinte arquitetura:
 ---
 
 
-## Resultados 📊
+## Resultados
 
 O modelo foi treinado por 5 épocas, alcançando os seguintes resultados no conjunto de validação:
 
